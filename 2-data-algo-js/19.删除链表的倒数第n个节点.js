@@ -126,7 +126,7 @@ var removeNthFromEnd = function(head, n) {
     // fn1(head, n)
     // fn2(head, n)
     // fn3(head, n)
-    fn2_2(head, n)
+    return fn2_2(head, n)
 }
 
 // @lc code=end
