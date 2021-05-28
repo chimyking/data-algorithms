@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=2 lang=javascript
+ * @lc app=leetcode.cn id=1290 lang=javascript
  *
- * [2] 两数相加
+ * [1290] 二进制链表转整数
  */
 
 // @lc code=start
@@ -13,11 +13,10 @@
  * }
  */
 /**
- * @param {ListNode} l1
- * @param {ListNode} l2
- * @return {ListNode}
+ * @param {ListNode} head
+ * @return {number}
  */
-var addTwoNumbers = function(l1, l2) {
+var getDecimalValue = function(head) {
 
 };
 // @lc code=end

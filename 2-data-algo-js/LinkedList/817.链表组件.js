@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=83 lang=javascript
+ * @lc app=leetcode.cn id=817 lang=javascript
  *
- * [83] 删除排序链表中的重复元素
+ * [817] 链表组件
  */
 
 // @lc code=start
@@ -14,9 +14,10 @@
  */
 /**
  * @param {ListNode} head
- * @return {ListNode}
+ * @param {number[]} nums
+ * @return {number}
  */
-var deleteDuplicates = function(head) {
+var numComponents = function(head, nums) {
 
 };
 // @lc code=end

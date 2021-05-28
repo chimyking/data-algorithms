@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=141 lang=javascript
+ * @lc app=leetcode.cn id=1171 lang=javascript
  *
- * [141] 环形链表
+ * [1171] 从链表中删去总和值为零的连续节点
  */
 
 // @lc code=start
@@ -12,13 +12,12 @@
  *     this.next = null;
  * }
  */
-
 /**
  * @param {ListNode} head
- * @return {boolean}
+ * @return {ListNode}
  */
-var hasCycle = function(head) {
-    
+var removeZeroSumSublists = function(head) {
+
 };
 // @lc code=end
 

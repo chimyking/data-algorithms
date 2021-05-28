@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=2 lang=javascript
+ * @lc app=leetcode.cn id=1019 lang=javascript
  *
- * [2] 两数相加
+ * [1019] 链表中的下一个更大节点
  */
 
 // @lc code=start
@@ -13,11 +13,10 @@
  * }
  */
 /**
- * @param {ListNode} l1
- * @param {ListNode} l2
- * @return {ListNode}
+ * @param {ListNode} head
+ * @return {number[]}
  */
-var addTwoNumbers = function(l1, l2) {
+var nextLargerNodes = function(head) {
 
 };
 // @lc code=end
